@@ -1,5 +1,4 @@
-<h3>Bootcamp <a href="https://github.com/eduzz/mentoria-dio">Eduzz</a> - DIO | <a href="https://github.com/lucasrmagalhaes/homework-issues/issues?q=is%3Aissue+label%3AEduzz+is%3Aclosed">Issues</a></h3>
-
+<h3>Bootcamp <a href="https://github.com/decristony/InterBootcamp">Inter</a> - DIO 
 <hr>
 
 <h4>Mentoria #1: Aula Inaugural - Bootcamp Inter Frontend Developer</h4>
